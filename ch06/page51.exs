@@ -1,5 +1,5 @@
-defmodule Chop do
-  def guess(n, range), do: 1
++defmodule CH06 do
++  def sum(1), do: 1
   
   def sum(n), do: n + sum(n-1)
   
